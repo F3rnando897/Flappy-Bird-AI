@@ -16,3 +16,4 @@ A inteligência artificial foi desenvolvida utilizando a técnica "[neat python]
 https://github.com/F3rnando897/Flappy-Bird-AI/assets/79027534/8282e357-e0df-452d-82c0-62d4ba499728
 
 - Obs: O espaço entre os canos foi aumentando de acordo com a velocidade, para com que os passaros conseguissem passar por entre os canos. 
+- Cada geração tem 50 passaros
